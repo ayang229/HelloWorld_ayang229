@@ -1,0 +1,16 @@
+PODS:
+  - HelloWorld_ayang229 (0.1.0)
+
+DEPENDENCIES:
+  - HelloWorld_ayang229 (from `../`)
+
+EXTERNAL SOURCES:
+  HelloWorld_ayang229:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  HelloWorld_ayang229: 5d14cce84a1aa7278a3f73432b5865a7b5e032ac
+
+PODFILE CHECKSUM: 5fbf190fe186f80c86d08fc064227974dac63229
+
+COCOAPODS: 1.2.0
