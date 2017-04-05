@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'HelloWorld_ayang229'
-  s.version          = '0.1.2'
+  s.version          = '0.1.3'
   s.summary          = 'HelloWorld_ayang229 Testbed'
 
 # This description is used to generate tags and improve search results.
@@ -32,9 +32,9 @@ TODO: Add long description of the pod here.
 
   s.source_files = 'HelloWorld_ayang229/Classes/**/*'
   
-  # s.resource_bundles = {
-  #   'HelloWorld_ayang229' => ['HelloWorld_ayang229/Assets/*.png']
-  # }
+  s.resource_bundles = {
+     'HelloWorld_ayang229' => ['HelloWorld_ayang229/Assets/*.png']
+   }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
