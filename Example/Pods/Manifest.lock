@@ -1,5 +1,5 @@
 PODS:
-  - HelloWorld_ayang229 (0.1.3)
+  - HelloWorld_ayang229 (0.1.4)
 
 DEPENDENCIES:
   - HelloWorld_ayang229 (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  HelloWorld_ayang229: 841fc4fef17edf4c1fec4ffefbb3ac021db640bb
+  HelloWorld_ayang229: 9ebc40dcd3c4a8f2d7f68e98f19b4bc26fb6da37
 
 PODFILE CHECKSUM: 5fbf190fe186f80c86d08fc064227974dac63229
 
